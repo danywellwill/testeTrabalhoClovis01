@@ -1,0 +1,2 @@
+Criando novo arquivo de texto simples via prompt do wondows 10
+Testando sequencia de escape \n Pra ver se funciona no prompt do \n windows 10
