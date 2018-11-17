@@ -1,2 +1,0 @@
-Adicionando linhas de texto a um arquivo de texto simples existente. Testando tambÇm o funcionamento das quebras de linha
-Foi observado que as quebras de linha que ocorrem aqui no prompt do windows 10 n∆o s∆o espelhadas no arquivo de texto
